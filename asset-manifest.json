@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/internship-infotecs-penza-js/static/css/main.dc789e5c.css",
+    "main.js": "/internship-infotecs-penza-js/static/js/main.1ce4765d.js",
+    "static/js/787.6ee81229.chunk.js": "/internship-infotecs-penza-js/static/js/787.6ee81229.chunk.js",
+    "index.html": "/internship-infotecs-penza-js/index.html",
+    "main.dc789e5c.css.map": "/internship-infotecs-penza-js/static/css/main.dc789e5c.css.map",
+    "main.1ce4765d.js.map": "/internship-infotecs-penza-js/static/js/main.1ce4765d.js.map",
+    "787.6ee81229.chunk.js.map": "/internship-infotecs-penza-js/static/js/787.6ee81229.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc789e5c.css",
+    "static/js/main.1ce4765d.js"
+  ]
+}
