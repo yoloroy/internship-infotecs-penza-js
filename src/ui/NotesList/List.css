@@ -1,0 +1,6 @@
+.List {
+  width: inherit;
+  height: inherit;
+  overflow: scroll;
+  align-items: start;
+}

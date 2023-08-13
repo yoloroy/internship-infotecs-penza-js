@@ -1,0 +1,19 @@
+.SplitView2 {
+  width: 100%;
+  height: inherit;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+}
+
+.SplitView2-Handle {
+  cursor: col-resize;
+  display: inline-block;
+  background: content-box var(--border);
+  width: 1px;
+  padding-left: 4px;
+  padding-right: 4px;
+  margin-left: -4px;
+  margin-right: -4px;
+  height: 100%;
+}
